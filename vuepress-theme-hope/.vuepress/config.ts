@@ -3,10 +3,10 @@ import theme from "./theme";
 
 export default defineUserConfig({
   lang: "zh-CN",
-  title: "个人博客",
+  title: "Yaxin",
   description: "",
-
-  base: "/",
+  dest: './dist',  // 设置输出目录
+  base: '/',
 
   theme,
 });

@@ -1,41 +1,41 @@
 {
-  "hash": "4848658e",
-  "browserHash": "f07e906e",
+  "hash": "1c1eec17",
+  "browserHash": "8ae2660f",
   "optimized": {
     "@vue/devtools-api": {
-      "src": "../../../../node_modules/.pnpm/registry.npmmirror.com+@vue+devtools-api@6.2.1/node_modules/@vue/devtools-api/lib/esm/index.js",
+      "src": "../../../../node_modules/@vue/devtools-api/lib/esm/index.js",
       "file": "@vue_devtools-api.js",
-      "fileHash": "56c504f4",
+      "fileHash": "578fc40d",
       "needsInterop": false
     },
     "@vuepress/shared": {
-      "src": "../../../../node_modules/.pnpm/registry.npmmirror.com+@vuepress+shared@2.0.0-beta.49/node_modules/@vuepress/shared/dist/index.js",
+      "src": "../../../../node_modules/@vuepress/shared/dist/index.js",
       "file": "@vuepress_shared.js",
-      "fileHash": "52cf11bb",
+      "fileHash": "1396b33c",
       "needsInterop": false
     },
     "vue": {
-      "src": "../../../../node_modules/.pnpm/registry.npmmirror.com+vue@3.2.37/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "bf738052",
+      "fileHash": "de1a7d33",
       "needsInterop": false
     },
     "vue-router": {
-      "src": "../../../../node_modules/.pnpm/registry.npmmirror.com+vue-router@4.1.2_vue@3.2.37/node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "src": "../../../../node_modules/vue-router/dist/vue-router.esm-bundler.js",
       "file": "vue-router.js",
-      "fileHash": "87ee044e",
+      "fileHash": "b7acbb11",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-OK5UFTIY": {
-      "file": "chunk-OK5UFTIY.js"
+    "chunk-OWWTZT6Q": {
+      "file": "chunk-OWWTZT6Q.js"
     },
-    "chunk-BZNRZDQS": {
-      "file": "chunk-BZNRZDQS.js"
+    "chunk-EECKUZ57": {
+      "file": "chunk-EECKUZ57.js"
     },
-    "chunk-LWXRN2LU": {
-      "file": "chunk-LWXRN2LU.js"
+    "chunk-R3PKAD4A": {
+      "file": "chunk-R3PKAD4A.js"
     },
     "chunk-LRYUVN3F": {
       "file": "chunk-LRYUVN3F.js"

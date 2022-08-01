@@ -66,5 +66,22 @@ export default sidebar({
       ]
     }
   ],
+  "/computerBasic/": [
+  {
+    text: "计算机相关知识",prefix: "/computerBasic/",
+    children: [
+      {
+        text: "设计模式",
+        prefix: "design/",
+        collapsable: true,// 可选的, 设置分组是否可以折叠，默认值是 false,
+        activeMatch: "^/design/$",
+        children: [
+          { text: "1.设计模式介绍",  link: "设计模式介绍" },
+          { text: "2.创建型模式",  link: "创建型模式" },
+        ],
+      },
+    ]
+  },
+],
   "/guide/": "structure",
 });

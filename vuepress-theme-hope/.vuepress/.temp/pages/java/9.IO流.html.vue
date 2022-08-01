@@ -847,7 +847,6 @@
 <li>用于操作内存
 <ul>
 <li>SeekableByteChannel newByteChannel(Path path, OpenOption ... how)：获取与指定文件的连接，how指定打开方式</li>
-<li>DirectoryStream<Path> newDirectoryStream(Path path)：打开path指定的目录</li>
 <li>InputStream newInputStream(Path path, OpenOption ... how)：获取InputStream对象</li>
 <li>OutputStream newOutputStream(Path path, OpenOption ... how)：获取OutputStream对象</li>
 </ul>

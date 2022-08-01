@@ -1,3 +1,12 @@
+---
+date: 2022-07-29
+category:
+- 工具
+tag:
+- 命令
+---
+
+
 部分linux指令的摘录
 <!-- more -->
 # linux常用命令

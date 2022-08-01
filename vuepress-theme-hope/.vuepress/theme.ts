@@ -13,9 +13,9 @@ export default hopeTheme({
 
   iconAssets: "iconfont",
 
-  logo: "/logo.png",//头像
+  logo: "/logo2.png",//右上角的头像
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "https://github.com/moyaxin/note",
 
   docsDir: "demo/src",
 
@@ -40,49 +40,23 @@ export default hopeTheme({
     // avatar头像
     roundAvatar:true,//头像被剪裁成圆形
     description: "一个java工程师",//介绍、座右铭或口号
-    intro: "/intro.html",//个人介绍页地址,点击头像与姓名时会自动进行跳转
+    intro: "/",//个人介绍页地址,点击头像与姓名时会自动进行跳转
     articlePerPage:5,//分页配置
     medias: {
-      Baidu: "https://example.com",
-      Bitbucket: "https://example.com",
-      Dingding: "https://example.com",
-      Discord: "https://example.com",
-      Dribbble: "https://example.com",
-      Email: "https://example.com",
-      Evernote: "https://example.com",
-      Facebook: "https://example.com",
-      Flipboard: "https://example.com",
-      Gitee: "https://example.com",
-      GitHub: "https://example.com",
-      Gitlab: "https://example.com",
-      Gmail: "https://example.com",
-      Instagram: "https://example.com",
-      Lines: "https://example.com",
-      Linkedin: "https://example.com",
-      Pinterest: "https://example.com",
-      Pocket: "https://example.com",
-      QQ: "https://example.com",
-      Qzone: "https://example.com",
-      Reddit: "https://example.com",
-      Rss: "https://example.com",
-      Steam: "https://example.com",
-      Twitter: "https://example.com",
-      Wechat: "https://example.com",
-      Weibo: "https://example.com",
-      Whatsapp: "https://example.com",
-      Youtube: "https://example.com",
-      Zhihu: "https://example.com",
+      Gitee: "https://gitee.com/moyaxin",
+      GitHub: "https://github.com/moyaxin/",
     },
   },
 
   encrypt: {
     config: {
-      "/guide/encrypt.html": ["1234"],
+      // "/guide/encrypt.html": ["1234"],
     },
   },
 
   plugins: {
     blog: {
+      timeline: "Time is precious",
       autoExcerpt: true,//自动提取摘要
     },
 

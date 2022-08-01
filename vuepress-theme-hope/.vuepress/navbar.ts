@@ -2,8 +2,6 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  "/home",
-  { text: "使用指南", icon: "creative", link: "/guide/" , activeMatch: "^/guide/$",},
   {
     text: "java", icon: "creative",prefix: "/java/",
     children: [
@@ -53,6 +51,20 @@ export default navbar([
         prefix: "docker/",
         children: [
           { text: "docker介绍",  link: "docker介绍" },
+        ],
+      },
+    ]
+  },
+  {
+    text: "计算机基础",prefix: "/computerBasic/",
+    children: [
+      {
+        text: "设计模式",
+        prefix: "design/",
+        activeMatch: "^/design/$",
+        children: [
+          { text: "1.设计模式介绍",  link: "设计模式介绍" },
+          { text: "2.创建型模式",  link: "创建型模式" },
         ],
       },
     ]

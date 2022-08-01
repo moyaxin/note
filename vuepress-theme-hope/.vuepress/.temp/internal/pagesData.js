@@ -3,18 +3,6 @@ export const pagesData = {
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
   // path: /home.html
   "v-79fdd481": () => import(/* webpackChunkName: "v-79fdd481" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/home.html.js").then(({ data }) => data),
-  // path: /slide.html
-  "v-0e503981": () => import(/* webpackChunkName: "v-0e503981" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/slide.html.js").then(({ data }) => data),
-  // path: /guide/
-  "v-fffb8e28": () => import(/* webpackChunkName: "v-fffb8e28" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/guide/index.html.js").then(({ data }) => data),
-  // path: /guide/disable.html
-  "v-4c863446": () => import(/* webpackChunkName: "v-4c863446" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/guide/disable.html.js").then(({ data }) => data),
-  // path: /guide/encrypt.html
-  "v-bf720700": () => import(/* webpackChunkName: "v-bf720700" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/guide/encrypt.html.js").then(({ data }) => data),
-  // path: /guide/markdown.html
-  "v-0978b044": () => import(/* webpackChunkName: "v-0978b044" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/guide/markdown.html.js").then(({ data }) => data),
-  // path: /guide/page.html
-  "v-4eaf9f84": () => import(/* webpackChunkName: "v-4eaf9f84" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/guide/page.html.js").then(({ data }) => data),
   // path: /java/1.%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95.html
   "v-257d5954": () => import(/* webpackChunkName: "v-257d5954" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/java/1.基本语法.html.js").then(({ data }) => data),
   // path: /java/10.%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B.html
@@ -39,6 +27,12 @@ export const pagesData = {
   "v-30ac5c4a": () => import(/* webpackChunkName: "v-30ac5c4a" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/java/8.泛型.html.js").then(({ data }) => data),
   // path: /java/9.IO%E6%B5%81.html
   "v-31077d4c": () => import(/* webpackChunkName: "v-31077d4c" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/java/9.IO流.html.js").then(({ data }) => data),
+  // path: /computerBasic/design/%E5%88%9B%E5%BB%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F.html
+  "v-bac11736": () => import(/* webpackChunkName: "v-bac11736" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/computerBasic/design/创建型模式.html.js").then(({ data }) => data),
+  // path: /computerBasic/design/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%BB%8B%E7%BB%8D.html
+  "v-038b9490": () => import(/* webpackChunkName: "v-038b9490" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/computerBasic/design/设计模式介绍.html.js").then(({ data }) => data),
+  // path: /devTool/docker/docker%E4%BB%8B%E7%BB%8D.html
+  "v-7d953cc0": () => import(/* webpackChunkName: "v-7d953cc0" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/devTool/docker/docker介绍.html.js").then(({ data }) => data),
   // path: /devTool/git/Git%E4%BB%8B%E7%BB%8D.html
   "v-7231641a": () => import(/* webpackChunkName: "v-7231641a" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/devTool/git/Git介绍.html.js").then(({ data }) => data),
   // path: /devTool/git/Git%E5%AE%9E%E6%93%8D.html
@@ -49,8 +43,6 @@ export const pagesData = {
   "v-9913fa56": () => import(/* webpackChunkName: "v-9913fa56" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/devTool/linux/linux常用命令.html.js").then(({ data }) => data),
   // path: /devTool/linux/linux%E7%94%A8%E6%88%B7%E3%80%81%E6%9D%83%E9%99%90%E3%80%81%E8%BF%9B%E7%A8%8B.html
   "v-2f71ba40": () => import(/* webpackChunkName: "v-2f71ba40" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/devTool/linux/linux用户、权限、进程.html.js").then(({ data }) => data),
-  // path: /devTool/docker/docker%E4%BB%8B%E7%BB%8D.html
-  "v-7d953cc0": () => import(/* webpackChunkName: "v-7d953cc0" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/devTool/docker/docker介绍.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
   // path: /category/
@@ -65,18 +57,18 @@ export const pagesData = {
   "v-d804e652": () => import(/* webpackChunkName: "v-d804e652" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/slide/index.html.js").then(({ data }) => data),
   // path: /star/
   "v-154dc4c4": () => import(/* webpackChunkName: "v-154dc4c4" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/star/index.html.js").then(({ data }) => data),
-  // path: /timeline/
-  "v-01560935": () => import(/* webpackChunkName: "v-01560935" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/timeline/index.html.js").then(({ data }) => data),
-  // path: /category/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/
-  "v-03d57386": () => import(/* webpackChunkName: "v-03d57386" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/category/使用指南/index.html.js").then(({ data }) => data),
-  // path: /tag/%E7%A6%81%E7%94%A8/
-  "v-83e1f92e": () => import(/* webpackChunkName: "v-83e1f92e" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/tag/禁用/index.html.js").then(({ data }) => data),
-  // path: /tag/%E6%96%87%E7%AB%A0%E5%8A%A0%E5%AF%86/
-  "v-1e447d61": () => import(/* webpackChunkName: "v-1e447d61" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/tag/文章加密/index.html.js").then(({ data }) => data),
-  // path: /tag/markdown/
-  "v-484552dc": () => import(/* webpackChunkName: "v-484552dc" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/tag/markdown/index.html.js").then(({ data }) => data),
-  // path: /tag/%E9%A1%B5%E9%9D%A2%E9%85%8D%E7%BD%AE/
-  "v-a378ad66": () => import(/* webpackChunkName: "v-a378ad66" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/tag/页面配置/index.html.js").then(({ data }) => data),
-  // path: /tag/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/
-  "v-7b167472": () => import(/* webpackChunkName: "v-7b167472" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/tag/使用指南/index.html.js").then(({ data }) => data),
+  // path: /time-is-precious/
+  "v-be114ee2": () => import(/* webpackChunkName: "v-be114ee2" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/time-is-precious/index.html.js").then(({ data }) => data),
+  // path: /category/java%E5%9F%BA%E7%A1%80/
+  "v-646b395d": () => import(/* webpackChunkName: "v-646b395d" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/category/java基础/index.html.js").then(({ data }) => data),
+  // path: /tag/%E7%9F%A5%E8%AF%86%E7%82%B9/
+  "v-4a2afdc8": () => import(/* webpackChunkName: "v-4a2afdc8" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/tag/知识点/index.html.js").then(({ data }) => data),
+  // path: /category/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/
+  "v-41590e77": () => import(/* webpackChunkName: "v-41590e77" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/category/设计模式/index.html.js").then(({ data }) => data),
+  // path: /tag/%E5%85%A5%E9%97%A8/
+  "v-7ae4fd1b": () => import(/* webpackChunkName: "v-7ae4fd1b" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/tag/入门/index.html.js").then(({ data }) => data),
+  // path: /category/%E5%B7%A5%E5%85%B7/
+  "v-14145d44": () => import(/* webpackChunkName: "v-14145d44" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/category/工具/index.html.js").then(({ data }) => data),
+  // path: /tag/%E5%91%BD%E4%BB%A4/
+  "v-16f21ed9": () => import(/* webpackChunkName: "v-16f21ed9" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/tag/命令/index.html.js").then(({ data }) => data),
 }
