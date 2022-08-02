@@ -31,20 +31,22 @@ export const pagesComponents = {
   "v-31077d4c": defineAsyncComponent(() => import(/* webpackChunkName: "v-31077d4c" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/java/9.IO流.html.vue")),
   // path: /computerBasic/design/%E5%88%9B%E5%BB%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F.html
   "v-bac11736": defineAsyncComponent(() => import(/* webpackChunkName: "v-bac11736" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/computerBasic/design/创建型模式.html.vue")),
+  // path: /computerBasic/design/%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F.html
+  "v-c4408fb8": defineAsyncComponent(() => import(/* webpackChunkName: "v-c4408fb8" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/computerBasic/design/结构型模式.html.vue")),
   // path: /computerBasic/design/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%BB%8B%E7%BB%8D.html
   "v-038b9490": defineAsyncComponent(() => import(/* webpackChunkName: "v-038b9490" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/computerBasic/design/设计模式介绍.html.vue")),
   // path: /devTool/docker/docker%E4%BB%8B%E7%BB%8D.html
   "v-7d953cc0": defineAsyncComponent(() => import(/* webpackChunkName: "v-7d953cc0" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/devTool/docker/docker介绍.html.vue")),
-  // path: /devTool/git/Git%E4%BB%8B%E7%BB%8D.html
-  "v-7231641a": defineAsyncComponent(() => import(/* webpackChunkName: "v-7231641a" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/devTool/git/Git介绍.html.vue")),
-  // path: /devTool/git/Git%E5%AE%9E%E6%93%8D.html
-  "v-c09ecb58": defineAsyncComponent(() => import(/* webpackChunkName: "v-c09ecb58" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/devTool/git/Git实操.html.vue")),
   // path: /devTool/linux/linux%E5%9F%BA%E7%A1%80%E4%BB%8B%E7%BB%8D.html
   "v-2e65851e": defineAsyncComponent(() => import(/* webpackChunkName: "v-2e65851e" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/devTool/linux/linux基础介绍.html.vue")),
   // path: /devTool/linux/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.html
   "v-9913fa56": defineAsyncComponent(() => import(/* webpackChunkName: "v-9913fa56" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/devTool/linux/linux常用命令.html.vue")),
   // path: /devTool/linux/linux%E7%94%A8%E6%88%B7%E3%80%81%E6%9D%83%E9%99%90%E3%80%81%E8%BF%9B%E7%A8%8B.html
   "v-2f71ba40": defineAsyncComponent(() => import(/* webpackChunkName: "v-2f71ba40" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/devTool/linux/linux用户、权限、进程.html.vue")),
+  // path: /devTool/git/Git%E4%BB%8B%E7%BB%8D.html
+  "v-7231641a": defineAsyncComponent(() => import(/* webpackChunkName: "v-7231641a" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/devTool/git/Git介绍.html.vue")),
+  // path: /devTool/git/Git%E5%AE%9E%E6%93%8D.html
+  "v-c09ecb58": defineAsyncComponent(() => import(/* webpackChunkName: "v-c09ecb58" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/devTool/git/Git实操.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/404.html.vue")),
   // path: /category/
