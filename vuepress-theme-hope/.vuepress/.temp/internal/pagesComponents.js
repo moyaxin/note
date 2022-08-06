@@ -29,24 +29,48 @@ export const pagesComponents = {
   "v-30ac5c4a": defineAsyncComponent(() => import(/* webpackChunkName: "v-30ac5c4a" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/java/8.泛型.html.vue")),
   // path: /java/9.IO%E6%B5%81.html
   "v-31077d4c": defineAsyncComponent(() => import(/* webpackChunkName: "v-31077d4c" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/java/9.IO流.html.vue")),
-  // path: /computerBasic/design/%E5%88%9B%E5%BB%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F.html
-  "v-bac11736": defineAsyncComponent(() => import(/* webpackChunkName: "v-bac11736" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/computerBasic/design/创建型模式.html.vue")),
-  // path: /computerBasic/design/%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F.html
-  "v-c4408fb8": defineAsyncComponent(() => import(/* webpackChunkName: "v-c4408fb8" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/computerBasic/design/结构型模式.html.vue")),
-  // path: /computerBasic/design/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%BB%8B%E7%BB%8D.html
-  "v-038b9490": defineAsyncComponent(() => import(/* webpackChunkName: "v-038b9490" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/computerBasic/design/设计模式介绍.html.vue")),
-  // path: /devTool/docker/docker%E4%BB%8B%E7%BB%8D.html
-  "v-7d953cc0": defineAsyncComponent(() => import(/* webpackChunkName: "v-7d953cc0" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/devTool/docker/docker介绍.html.vue")),
   // path: /devTool/git/Git%E4%BB%8B%E7%BB%8D.html
   "v-7231641a": defineAsyncComponent(() => import(/* webpackChunkName: "v-7231641a" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/devTool/git/Git介绍.html.vue")),
   // path: /devTool/git/Git%E5%AE%9E%E6%93%8D.html
   "v-c09ecb58": defineAsyncComponent(() => import(/* webpackChunkName: "v-c09ecb58" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/devTool/git/Git实操.html.vue")),
+  // path: /devTool/docker/docker%E4%BB%8B%E7%BB%8D.html
+  "v-7d953cc0": defineAsyncComponent(() => import(/* webpackChunkName: "v-7d953cc0" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/devTool/docker/docker介绍.html.vue")),
   // path: /devTool/linux/linux%E5%9F%BA%E7%A1%80%E4%BB%8B%E7%BB%8D.html
   "v-2e65851e": defineAsyncComponent(() => import(/* webpackChunkName: "v-2e65851e" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/devTool/linux/linux基础介绍.html.vue")),
   // path: /devTool/linux/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.html
   "v-9913fa56": defineAsyncComponent(() => import(/* webpackChunkName: "v-9913fa56" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/devTool/linux/linux常用命令.html.vue")),
   // path: /devTool/linux/linux%E7%94%A8%E6%88%B7%E3%80%81%E6%9D%83%E9%99%90%E3%80%81%E8%BF%9B%E7%A8%8B.html
   "v-2f71ba40": defineAsyncComponent(() => import(/* webpackChunkName: "v-2f71ba40" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/devTool/linux/linux用户、权限、进程.html.vue")),
+  // path: /computerBasic/design/build/%E5%88%9B%E5%BB%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F.html
+  "v-7f43d6b4": defineAsyncComponent(() => import(/* webpackChunkName: "v-7f43d6b4" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/computerBasic/design/build/创建型模式.html.vue")),
+  // path: /computerBasic/design/build/%E5%8D%95%E4%BE%8B.html
+  "v-6e913126": defineAsyncComponent(() => import(/* webpackChunkName: "v-6e913126" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/computerBasic/design/build/单例.html.vue")),
+  // path: /computerBasic/design/build/%E5%8E%9F%E5%9E%8B.html
+  "v-c85c6644": defineAsyncComponent(() => import(/* webpackChunkName: "v-c85c6644" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/computerBasic/design/build/原型.html.vue")),
+  // path: /computerBasic/design/build/%E5%B7%A5%E5%8E%82.html
+  "v-2c35b364": defineAsyncComponent(() => import(/* webpackChunkName: "v-2c35b364" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/computerBasic/design/build/工厂.html.vue")),
+  // path: /computerBasic/design/build/%E5%BB%BA%E9%80%A0.html
+  "v-41dc9500": defineAsyncComponent(() => import(/* webpackChunkName: "v-41dc9500" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/computerBasic/design/build/建造.html.vue")),
+  // path: /computerBasic/design/construction/%E4%BA%AB%E5%85%83.html
+  "v-3e4cf2fa": defineAsyncComponent(() => import(/* webpackChunkName: "v-3e4cf2fa" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/computerBasic/design/construction/享元.html.vue")),
+  // path: /computerBasic/design/construction/%E4%BB%A3%E7%90%86.html
+  "v-3b0e9402": defineAsyncComponent(() => import(/* webpackChunkName: "v-3b0e9402" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/computerBasic/design/construction/代理.html.vue")),
+  // path: /computerBasic/design/construction/%E5%A4%96%E8%A7%82.html
+  "v-137910ba": defineAsyncComponent(() => import(/* webpackChunkName: "v-137910ba" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/computerBasic/design/construction/外观.html.vue")),
+  // path: /computerBasic/design/construction/%E6%A1%A5%E6%8E%A5.html
+  "v-47e75e18": defineAsyncComponent(() => import(/* webpackChunkName: "v-47e75e18" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/computerBasic/design/construction/桥接.html.vue")),
+  // path: /computerBasic/design/construction/%E7%BB%84%E5%90%88.html
+  "v-68049a6c": defineAsyncComponent(() => import(/* webpackChunkName: "v-68049a6c" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/computerBasic/design/construction/组合.html.vue")),
+  // path: /computerBasic/design/construction/%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F.html
+  "v-5ab9bf2c": defineAsyncComponent(() => import(/* webpackChunkName: "v-5ab9bf2c" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/computerBasic/design/construction/结构型模式.html.vue")),
+  // path: /computerBasic/design/construction/%E8%A3%85%E9%A5%B0.html
+  "v-26022da7": defineAsyncComponent(() => import(/* webpackChunkName: "v-26022da7" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/computerBasic/design/construction/装饰.html.vue")),
+  // path: /computerBasic/design/construction/%E9%80%82%E9%85%8D%E5%99%A8.html
+  "v-7ffd61bc": defineAsyncComponent(() => import(/* webpackChunkName: "v-7ffd61bc" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/computerBasic/design/construction/适配器.html.vue")),
+  // path: /computerBasic/design/introduce/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99.html
+  "v-7c801280": defineAsyncComponent(() => import(/* webpackChunkName: "v-7c801280" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/computerBasic/design/introduce/设计原则.html.vue")),
+  // path: /computerBasic/design/introduce/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%BB%8B%E7%BB%8D.html
+  "v-38081070": defineAsyncComponent(() => import(/* webpackChunkName: "v-38081070" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/computerBasic/design/introduce/设计模式介绍.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/404.html.vue")),
   // path: /category/
@@ -67,12 +91,12 @@ export const pagesComponents = {
   "v-646b395d": defineAsyncComponent(() => import(/* webpackChunkName: "v-646b395d" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/category/java基础/index.html.vue")),
   // path: /tag/%E7%9F%A5%E8%AF%86%E7%82%B9/
   "v-4a2afdc8": defineAsyncComponent(() => import(/* webpackChunkName: "v-4a2afdc8" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/tag/知识点/index.html.vue")),
-  // path: /category/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/
-  "v-41590e77": defineAsyncComponent(() => import(/* webpackChunkName: "v-41590e77" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/category/设计模式/index.html.vue")),
-  // path: /tag/%E5%85%A5%E9%97%A8/
-  "v-7ae4fd1b": defineAsyncComponent(() => import(/* webpackChunkName: "v-7ae4fd1b" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/tag/入门/index.html.vue")),
   // path: /category/%E5%B7%A5%E5%85%B7/
   "v-14145d44": defineAsyncComponent(() => import(/* webpackChunkName: "v-14145d44" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/category/工具/index.html.vue")),
+  // path: /tag/%E5%85%A5%E9%97%A8/
+  "v-7ae4fd1b": defineAsyncComponent(() => import(/* webpackChunkName: "v-7ae4fd1b" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/tag/入门/index.html.vue")),
+  // path: /category/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/
+  "v-41590e77": defineAsyncComponent(() => import(/* webpackChunkName: "v-41590e77" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/category/设计模式/index.html.vue")),
   // path: /tag/%E5%91%BD%E4%BB%A4/
   "v-16f21ed9": defineAsyncComponent(() => import(/* webpackChunkName: "v-16f21ed9" */"/Users/user/Desktop/code/vuepress-theme-hope/vuepress-theme-hope/.vuepress/.temp/pages/tag/命令/index.html.vue")),
 }

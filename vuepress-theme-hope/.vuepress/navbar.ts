@@ -63,9 +63,9 @@ export default navbar([
         prefix: "design/",
         activeMatch: "^/design/$",
         children: [
-          { text: "1.设计模式介绍",  link: "设计模式介绍" },
-          { text: "2.创建型模式",  link: "创建型模式" },
-          { text: "3.结构型模式",  link: "结构型模式" },
+          { text: "1.设计模式介绍",  link: "introduce/设计模式介绍" },
+          { text: "2.创建型模式",  link: "build/创建型模式" },
+          { text: "3.结构型模式",  link: "construction/结构型模式" },
         ],
       },
     ]

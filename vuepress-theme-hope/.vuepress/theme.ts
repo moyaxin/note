@@ -3,7 +3,7 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-v2-demo.mrhope.site",
+  hostname: "https://github.com/moyaxin/note",
 
   author: {
     name: "Yaxin",
@@ -67,11 +67,11 @@ export default hopeTheme({
       /**
        * Using Giscus
        */
-      // provider: "Giscus",
-      // repo: "vuepress-theme-hope/giscus-discussions",
-      // repoId: "R_kgDOG_Pt2A",
-      // category: "Announcements",
-      // categoryId: "DIC_kwDOG_Pt2M4COD69",
+      provider: "Giscus",
+      repo: "moyaxin/note",
+      repoId: "R_kgDOHrAmpg",
+      category: "Announcements",
+      categoryId: "DIC_kwDOHrAmps4CQpm2",
 
     },
 
