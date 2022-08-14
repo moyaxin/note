@@ -44,7 +44,7 @@ export default sidebar({
             { text: "基础介绍",  link: "linux基础介绍" },
             { text: "用户、权限、进程",  link: "linux用户、权限、进程" },
             { text: "常用命令",  link: "linux常用命令" },
-          ],
+          ]
         },
         {
           text: "Git",
@@ -66,36 +66,26 @@ export default sidebar({
       ]
     }
   ],
-  "/computerBasic/": [
-  {
-    text: "计算机相关知识",prefix: "/computerBasic/",
-    children: [
-      {
-        text: "设计模式",
-        prefix: "design/",
-        // collapsable: true,// 可选的, 设置分组是否可以折叠，默认值是 false,
-        activeMatch: "^/design/$",
-        children: [
-          { text: "1.设计模式介绍",  link: "introduce/设计模式介绍" ,collapsable: true,
-            children: [{ text: "七大设计原则",  link: "introduce/设计原则" },],},
-          { text: "2.创建型模式",  link: "build/创建型模式" ,collapsable: true,
-            children: [{ text: "2.1单例模式",  link: "build/单例" },
-                      { text: "2.2工厂模式",  link: "build/工厂" },
-                      { text: "3.3原型模式",  link: "build/原型" },
-                      { text: "4.4建造模式",  link: "build/建造" }]},
-          { text: "3.结构型模式",  link: "construction/结构型模式",collapsable: true,
-            children: [{ text: "3.1适配器模式",  link: "construction/适配器" },
-                      { text: "3.2桥接模式",  link: "construction/桥接" },
-                      { text: "3.3装饰模式",  link: "construction/装饰" },
-                      { text: "3.4组合模式",  link: "construction/组合" },
-                      { text: "3.5外观模式",  link: "construction/外观" },
-                      { text: "3.6享元模式",  link: "construction/享元" },
-                      { text: "3.7代理模式",  link: "construction/代理" },
-            ]},
-        ],
-      },
-    ]
-  },
-],
-  "/guide/": "structure",
+  "/基础学习": [
+    {
+      text: "设计模式",
+      prefix: "设计模式/",
+      collapsable: true,// 可选的, 设置分组是否可以折叠，默认值是 false,
+      children: [
+        { text: "1.设计模式介绍",  link: "1.设计模式介绍" },
+        { text: "2.创建型模式",  link: "2.创建型模式" },
+        { text: "3.结构型模式",  link: "3.结构型模式" },
+        { text: "4.行为型模式",  link: "4.行为型模式" },
+      ],
+    },
+  ],
+  "/技术杂文": [
+    {
+      text: "技术杂文",
+      collapsable: true,// 可选的, 设置分组是否可以折叠，默认值是 false,
+      children: [
+        { text: "1.java-根据ip获取位置信息",  link: "java-根据ip获取位置信息" },
+      ],
+    },
+  ],
 });

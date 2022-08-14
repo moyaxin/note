@@ -56,23 +56,31 @@ export default navbar([
     ]
   },
   {
-    text: "计算机基础",prefix: "/computerBasic/",
+    text: "代码基础",prefix: "/基础学习/",
     children: [
       {
         text: "设计模式",
-        prefix: "design/",
-        activeMatch: "^/design/$",
+        prefix: "设计模式/",
+        activeMatch: "^/设计模式/$",
         children: [
-          { text: "1.设计模式介绍",  link: "introduce/设计模式介绍" },
-          { text: "2.创建型模式",  link: "build/创建型模式" },
-          { text: "3.结构型模式",  link: "construction/结构型模式" },
+          { text: "1.设计模式介绍",  link: "1.设计模式介绍" },
+          { text: "2.创建型模式",  link: "2.创建型模式" },
+          { text: "3.结构型模式",  link: "3.结构型模式" },
+          { text: "4.行为型模式",  link: "4.行为型模式" },
         ],
       },
     ]
   },
   {
-    text: "主题文档",
+    text: "技术杂文",prefix: "/技术杂文/",
     icon: "note",
-    link: "https://vuepress-theme-hope.github.io/v2/zh/",
+    children: [
+      {
+        text: "技术杂文",
+        children: [
+          { text: "1.java-根据ip获取位置信息",  link: "java-根据ip获取位置信息" },
+        ],
+      },
+    ]
   },
 ]);
