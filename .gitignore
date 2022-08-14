@@ -9,6 +9,7 @@ lerna-debug.log*
 
 node_modules
 dist
+moyaxin.top
 dist-ssr
 *.local
 
